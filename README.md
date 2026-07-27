@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b0000,50:9b0000,100:d40000&height=220&section=header&text=Hardware%20Watermarking&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 # Hardware Watermarking for Digital Circuits
 
