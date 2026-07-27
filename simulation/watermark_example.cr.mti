@@ -1,0 +1,15 @@
+{D:/Hardware Security Spring 2026/CA3/testbench.v} {1 {vlog -work work -vopt -stats=none {D:/Hardware Security Spring 2026/CA3/testbench.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_watermark_example
+
+Top level modules:
+	tb_watermark_example
+
+} {} {}} {D:/Hardware Security Spring 2026/CA3/watermark_example.v} {1 {vlog -work work -vopt -stats=none {D:\Hardware Security Spring 2026\CA3\watermark_example.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module watermark_example_wm
+
+Top level modules:
+	watermark_example_wm
+
+} {} {}}
