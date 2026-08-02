@@ -47,12 +47,12 @@ This repository presents the implementation of several classical hardware waterm
 
 The primary goals of this project are:
 
-- 🔐 Understand hardware IP protection mechanisms.
-- 🧩 Learn multiple hardware watermarking methodologies.
-- 💻 Implement watermark embedding at the RTL level.
-- ✔️ Verify watermark correctness through simulation.
-- 📊 Analyze the effect of watermarking on circuit functionality.
-- 🏭 Explore practical techniques used in modern semiconductor industries.
+-  Understand hardware IP protection mechanisms.
+-  Learn multiple hardware watermarking methodologies.
+-  Implement watermark embedding at the RTL level.
+-  Verify watermark correctness through simulation.
+-  Analyze the effect of watermarking on circuit functionality.
+-  Explore practical techniques used in modern semiconductor industries.
 
 ---
 
