@@ -68,13 +68,13 @@ The project covers the complete design flow, beginning with watermark embedding 
 
 ### Topics
 
-- ✅ Don't-Care state manipulation
-- ✅ Watermark embedding
-- ✅ Karnaugh Map minimization
-- ✅ SOP optimization
-- ✅ RTL implementation
-- ✅ Functional verification
-- ✅ Simulation and waveform analysis
+-  Don't-Care state manipulation
+-  Watermark embedding
+-  Karnaugh Map minimization
+-  SOP optimization
+-  RTL implementation
+-  Functional verification
+-  Simulation and waveform analysis
 
 ---
 
@@ -86,12 +86,12 @@ This exercise illustrates how binary messages can be represented using ASCII enc
 
 ### Topics
 
-- ✅ ASCII watermark encoding
-- ✅ Invalid-state exploitation
-- ✅ Truth table modification
-- ✅ Karnaugh Map optimization
-- ✅ Logic minimization
-- ✅ Functional preservation
+-  ASCII watermark encoding
+-  Invalid-state exploitation
+-  Truth table modification
+-  Karnaugh Map optimization
+-  Logic minimization
+-  Functional preservation
 
 ---
 
@@ -103,12 +103,12 @@ Besides illustrating the embedding process, this project also demonstrates water
 
 ### Topics
 
-- ✅ Graph watermarking
-- ✅ Edge insertion algorithm
-- ✅ Binary signature embedding
-- ✅ Watermark extraction
-- ✅ Ownership verification
-- ✅ Robustness analysis
+-  Graph watermarking
+-  Edge insertion algorithm
+-  Binary signature embedding
+-  Watermark extraction
+-  Ownership verification
+-  Robustness analysis
 
 ---
 
@@ -143,25 +143,25 @@ Hardware-Watermarking-for-Digital-Circuits
 
 # 🛠️ Tools & Technologies
 
-- 💻 Verilog HDL
-- 🧪 ModelSim / QuestaSim
-- ⚡ RTL Design
-- 🗺️ Karnaugh Maps
-- 🔬 Digital Logic Design
-- 🛡️ Hardware Security
-- 📈 Functional Simulation
+-  Verilog HDL
+-  ModelSim / QuestaSim
+-  RTL Design
+-  Karnaugh Maps
+-  Digital Logic Design
+-  Hardware Security
+-  Functional Simulation
 
 ---
 
 # ✨ Highlights
 
-- 🔐 Multiple hardware watermarking techniques
-- 💻 RTL implementations in Verilog
-- 🧪 Complete verification testbenches
-- 📊 Simulation results
-- 📖 Detailed theoretical analysis
-- 🎓 Educational examples for hardware security
-- 🏭 Practical IP protection methodologies
+-  Multiple hardware watermarking techniques
+-  RTL implementations in Verilog
+-  Complete verification testbenches
+-  Simulation results
+-  Detailed theoretical analysis
+-  Educational examples for hardware security
+-  Practical IP protection methodologies
 
 ---
 
